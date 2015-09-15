@@ -1,0 +1,17 @@
+{
+  "name": "eth-stdlib",
+  "version": "0.0.1",
+  "description": "Standard library for Ethereum",
+  "author": "Tim Coulter",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/consensys/blockapps-web3.git"
+  },
+  "devDependencies": {
+    "babel": "*",
+    "rimraf": "*",
+    "mkdirp": "*"
+  },
+  "license": "MIT License. Copyright Consensys LLC, and authors. All rights reserved."
+}
