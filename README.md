@@ -16,7 +16,7 @@ Depending on your project you'll need to use both. Import the full Solidity code
 Contributing classes to the Standard Library is easy. 
 
   1. Write your contract you'd like to include.
-  2. Drop that contract into the `contracts` directory.
+  2. Drop that contract into the `./contracts` directory.
   3. Compile the contract with `truffle compile`. [Get Truffle.](https://github.com/ConsenSys/truffle)
   4. Run `./make_headers.es6` to remake all the header files automatically, which includes a header file for the contract you just added.
   4. Add tests for your contract in `./test`
